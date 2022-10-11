@@ -1,2 +1,3 @@
 "Hello world"
 "This is Project test"
+"Hi"
